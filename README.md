@@ -1,4 +1,4 @@
-# 🛒 Online Retail II - Exploratory Data Analysis (EDA)
+# Online Retail II - Exploratory Data Analysis (EDA)
 
 ##  Project Overview
 
